@@ -1,0 +1,7 @@
+/broker/mosquitto/config/password.txt
+/broker/paho-client/.env
+/.vscode/
+/pubsub/paho-pub/.idea/
+.idea
+/pubsub/.env
+/broker/mosquitto/data/mosquitto.db

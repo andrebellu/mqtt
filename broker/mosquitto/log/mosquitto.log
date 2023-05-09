@@ -1,0 +1,102 @@
+1683666505: mosquitto version 2.0.15 terminating
+1683666505: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683666507: mosquitto version 2.0.15 starting
+1683666507: Config loaded from /mosquitto/config/mosquitto.conf.
+1683666507: Opening ipv4 listen socket on port 1883.
+1683666507: mosquitto version 2.0.15 running
+1683666793: New connection from 172.19.0.1:51758 on port 1883.
+1683666793: New client connected from 172.19.0.1:51758 as andrea (p2, c1, k60, u'Andrea').
+1683666796: Client andrea closed its connection.
+1683666848: mosquitto version 2.0.15 terminating
+1683666848: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683666850: mosquitto version 2.0.15 starting
+1683666850: Config loaded from /mosquitto/config/mosquitto.conf.
+1683666850: Opening ipv4 listen socket on port 1883.
+1683666850: mosquitto version 2.0.15 running
+1683666858: New connection from 172.19.0.1:56224 on port 1883.
+1683666858: New client connected from 172.19.0.1:56224 as andrea (p2, c1, k60, u'Andrea').
+1683666860: Client andrea closed its connection.
+1683666901: mosquitto version 2.0.15 terminating
+1683666901: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683666904: mosquitto version 2.0.15 starting
+1683666904: Config loaded from /mosquitto/config/mosquitto.conf.
+1683666904: Opening ipv4 listen socket on port 1883.
+1683666904: mosquitto version 2.0.15 running
+1683667121: mosquitto version 2.0.15 terminating
+1683667121: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683667123: mosquitto version 2.0.15 starting
+1683667123: Config loaded from /mosquitto/config/mosquitto.conf.
+1683667123: Opening ipv4 listen socket on port 1883.
+1683667123: Opening ipv6 listen socket on port 1883.
+1683667123: Opening ipv4 listen socket on port 1883.
+1683667123: Error: Address in use
+1683667195: mosquitto version 2.0.15 starting
+1683667195: Config loaded from /mosquitto/config/mosquitto.conf.
+1683667195: Opening ipv4 listen socket on port 1883.
+1683667195: Opening ipv6 listen socket on port 1883.
+1683667195: mosquitto version 2.0.15 running
+1683667221: New connection from 172.19.0.1:52522 on port 1883.
+1683667221: Client andrea disconnected, not authorised.
+1683667222: New connection from 172.19.0.1:52536 on port 1883.
+1683667222: Client andrea disconnected, not authorised.
+1683667224: New connection from 172.19.0.1:52542 on port 1883.
+1683667224: Client andrea disconnected, not authorised.
+1683667672: mosquitto version 2.0.15 terminating
+1683667672: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683667673: mosquitto version 2.0.15 starting
+1683667673: Config loaded from /mosquitto/config/mosquitto.conf.
+1683667673: Opening ipv4 listen socket on port 1883.
+1683667673: Opening ipv6 listen socket on port 1883.
+1683667673: mosquitto version 2.0.15 running
+1683667947: mosquitto version 2.0.15 terminating
+1683667947: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683667950: mosquitto version 2.0.15 starting
+1683667950: Config loaded from /mosquitto/config/mosquitto.conf.
+1683667950: Opening ipv4 listen socket on port 1883.
+1683667950: Opening ipv6 listen socket on port 1883.
+1683667950: mosquitto version 2.0.15 running
+1683668087: mosquitto version 2.0.15 terminating
+1683668087: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683668088: mosquitto version 2.0.15 starting
+1683668088: Config loaded from /mosquitto/config/mosquitto.conf.
+1683668088: Opening ipv4 listen socket on port 1883.
+1683668088: Opening ipv6 listen socket on port 1883.
+1683668088: mosquitto version 2.0.15 running
+1683669101: mosquitto version 2.0.15 starting
+1683669101: Config loaded from /mosquitto/config/mosquitto.conf.
+1683669101: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1683669101: Error opening password file "/mosquitto/config/password.txt".
+1683669114: mosquitto version 2.0.15 starting
+1683669114: Config loaded from /mosquitto/config/mosquitto.conf.
+1683669114: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1683669114: Error opening password file "/mosquitto/config/password.txt".
+1683669121: mosquitto version 2.0.15 starting
+1683669121: Config loaded from /mosquitto/config/mosquitto.conf.
+1683669121: Error: Unable to open pwfile "/mosquitto/config/password.txt".
+1683669121: Error opening password file "/mosquitto/config/password.txt".
+1683669295: mosquitto version 2.0.15 starting
+1683669295: Config loaded from /mosquitto/config/mosquitto.conf.
+1683669295: Opening ipv4 listen socket on port 1883.
+1683669295: Opening ipv6 listen socket on port 1883.
+1683669295: mosquitto version 2.0.15 running
+1683669586: New connection from 172.18.0.1:58610 on port 1883.
+1683669586: Client auto-3711B0B8-CED3-514C-9EFF-5CA216A324B9 disconnected, not authorised.
+1683669587: New connection from 172.18.0.1:58614 on port 1883.
+1683669587: Client auto-C63DF8C8-51E2-84D4-2330-9D2C376D538A disconnected, not authorised.
+1683669598: New connection from 172.18.0.1:44430 on port 1883.
+1683669598: Client auto-460E2C09-0AFC-C5DF-1782-5BE4D2706501 disconnected, not authorised.
+1683669599: New connection from 172.18.0.1:44446 on port 1883.
+1683669599: Client auto-57068934-76EF-46E1-84C1-2C97EA2E43A9 disconnected, not authorised.
+1683669609: mosquitto version 2.0.15 terminating
+1683669609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1683669629: mosquitto version 2.0.15 starting
+1683669629: Config loaded from /mosquitto/config/mosquitto.conf.
+1683669629: Opening ipv4 listen socket on port 1883.
+1683669629: Opening ipv6 listen socket on port 1883.
+1683669629: mosquitto version 2.0.15 running
+1683669631: New connection from 172.18.0.1:55068 on port 1883.
+1683669631: New client connected from 172.18.0.1:55068 as auto-A1A32FAE-8633-290F-B9D9-BBDFFE7A2AA9 (p2, c1, k60, u'andrea').
+1683669643: Client auto-A1A32FAE-8633-290F-B9D9-BBDFFE7A2AA9 closed its connection.
+1683669647: New connection from 172.18.0.1:49020 on port 1883.
+1683669647: New client connected from 172.18.0.1:49020 as andrea (p2, c1, k60, u'andrea').
+1683669650: Client andrea closed its connection.
